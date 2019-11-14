@@ -1,0 +1,11 @@
+.allbody{
+    background-image: url(../../Asset/bg/mochaGrunge.png)
+}
+
+#search-bar{
+    background-color:'white';
+    border-radius:'15px';
+    padding:'0.5rem';
+    padding-right:'2rem';
+    border:'solid rgba(44, 62, 80,0.2) 2px';
+}
