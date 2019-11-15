@@ -3,10 +3,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-# Introduce
+### Introduce
 Library Manager is an application intended for the purpose of managing library data more easily. So that it can facilitate officers in managing the data of books in a library. This application is built using React JS as a frontend and for the availability of API data is handled by Express JS.
 
-# Prerequiste
+### Prerequiste
 
   - Node.js -  Simple bash script to manage multiple active node.js versions.
   - Clone this repo into local storage and build for the production or development mode.
